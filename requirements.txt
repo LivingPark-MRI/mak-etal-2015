@@ -1,6 +1,7 @@
 rich
 numpy
 pandas
+paramiko
 pingouin
 matplotlib
 livingpark_utils
