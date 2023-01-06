@@ -1,3 +1,5 @@
+lxml
+tqdm
 rich
 numpy
 pandas
